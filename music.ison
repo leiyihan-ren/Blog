@@ -1,0 +1,14 @@
+[
+  {
+    "title": "稻香",
+    "artist": "周杰伦",
+    "url": "https://example.com/dao-xiang.mp3",
+    "cover": "https://example.com/cover.jpg"
+  },
+  {
+    "title": "晴天",
+    "artist": "周杰伦",
+    "url": "https://example.com/qing-tian.mp3",
+    "cover": ""
+  }
+]
